@@ -14,6 +14,7 @@
       "url": "https://repo.magento.com/"
     }
   ],
+  "version": "2.0.0",
   "require": {
     "magento/module-payment": "100.3.*|100.2.*"
   },
